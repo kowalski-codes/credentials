@@ -61,26 +61,26 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
-[Systematic Program Design](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/spd/README.md) | ❌ Not Started
-[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | ❌ Not Started
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | ❌ Not Started
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | ❌ Not Started
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | ❌ Not Started
-[Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | ❌ Not Started
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | ❌ Not Started
+| [Systematic Program Design](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/spd/README.md) | ❌ Not Started
+| [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | ❌ Not Started
+| [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | ❌ Not Started
+| [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | ❌ Not Started
+| [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | ❌ Not Started
+| [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | ❌ Not Started
+| [Software Architecture](https://www.coursera.org/learn/software-architecture) | ❌ Not Started
 
 ### Core Math
 **Topics covered**: `discrete mathematics` `mathematical proofs` `basic statistics` `O-notation` `discrete probability`
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | ❌ Not Started
-[Single Variable Calculus*](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | ❌ Not Started
-[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | ❌ Not Started
-[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | ❌ Not Started
-[Mathematics for Computer Science by MIT Open Learning Library*](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | ❌ Not Started
-[Mathematics for Computer Science by MIT OpenCourseWare (OCW)*](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | ❌ Not Started
+| [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | ❌ Not Started
+| [Single Variable Calculus*](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | ❌ Not Started
+| [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | ❌ Not Started
+| [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | ❌ Not Started
+| [Mathematics for Computer Science by MIT Open Learning Library*](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | ❌ Not Started
+| [Mathematics for Computer Science by MIT OpenCourseWare (OCW)*](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | ❌ Not Started
 
-Resources:  
+_Resources:_  
 [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions)  
 [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems)  
 [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/)  
@@ -94,17 +94,17 @@ Resources:
 **Topics covered**: `terminals and shell scripting` `vim` `command line environments` `version control`
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | ❌ Not Started
+| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | ❌ Not Started
 
 ### Core systems
 **Topics covered**: `procedural programming` `manual memory management`
 `boolean algebra` `gate logic` `memory` `computer architecture` `assembly` `machine language` `virtual machines` `high-level languages` `compilers` `operating systems` `network protocols`
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | ❌ Not Started
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | ❌ Not Started
-[Operating Systems: Three Easy Pieces](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/ostep/README.md) | ❌ Not Started
-[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | ❌ Not Started
+| [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | ❌ Not Started
+| [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | ❌ Not Started
+| [Operating Systems: Three Easy Pieces](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/ostep/README.md) | ❌ Not Started
+| [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | ❌ Not Started
 
 _**To be continued**_
 
