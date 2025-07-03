@@ -8,8 +8,9 @@ a { color: #8ab4f8 !important; }
 table, th, td {
   background-color: #23272a !important;
   color: #e8eaed !important;
-  border-color: #181a1b !important;
-  border-collapse: separate !important;;
+  border-color: #444 !important;
+  border-collapse: separate;
+  overflow: auto;
 }
 
 pre, code {
@@ -28,3 +29,8 @@ input, textarea, select, button {
 hr {
   border-color: #444 !important;
 }
+
+
+
+
+
