@@ -58,7 +58,6 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 ### Core CS
 **Topics covered**: `functional programming` `design for testing` `program requirements` `common design patterns` `unit testing` `object-oriented design` `static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Ruby`
-
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [Systematic Program Design](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/spd/README.md) | ❌ Not Started
