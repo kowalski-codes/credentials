@@ -10,3 +10,11 @@ pre, code {
   background: #232323 !important;
   color: #ffcc99 !important;
 }
+
+@media (prefers-color-scheme: dark) {
+  table, th, td {
+    background-color: #222 !important;
+    color: #eee !important;
+    border-color: #444 !important;
+  }
+}
