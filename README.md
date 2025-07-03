@@ -1,4 +1,4 @@
-# Credentials & Achievements
+# 📚 Credentials & Achievements 🎓
 
 Welcome to my credentials repository!  
 This space showcases my verified certifications, completed courses, and professional achievements in technology and cybersecurity.  
@@ -20,8 +20,13 @@ All credentials here are organized for easy verification and reference.
 
 ## Content
 - [OSSU CS](#open-source-society-university)
-  - [OSSU PRE-COLLEGE MATH](#pre-college-math)
-- [COURSERA](#coursera)
+  - [OSSU Pre-college Math](#pre-college-math)
+  - [Intro CS](#intro-cs)
+  - [Core CS](#core-cs)
+  - [Core math](#core-math)
+  - [CS Tools](#cs-tools)
+  - [Core Systems](c#ore-systems)
+- [Coursera](#coursera)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
   - [Meta Front-End Developer Specialization](#meta-front-end-developer-specialization)
 
@@ -64,7 +69,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | ❌ Not Started
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | ❌ Not Started
 
-### Core math
+### Core Math
 **Topics covered**: `discrete mathematics` `mathematical proofs` `basic statistics` `O-notation` `discrete probability`
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
