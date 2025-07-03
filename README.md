@@ -3,7 +3,7 @@
   📚 Credentials & Achievements 🎓
 </h1>
 
-<p>
+#
 Welcome to my credentials repository!  
 This space showcases my verified certifications, completed courses, and professional achievements in technology and cybersecurity.  
 Here you will find:
@@ -21,7 +21,7 @@ All credentials here are organized for easy verification and reference.
 [![Coursera](https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=coursera&logoColor=blue)](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prekowalski@gmail.com)
 
-<p/>
+
   
 ---
 
