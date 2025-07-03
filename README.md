@@ -72,6 +72,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 ### Core Math
 **Topics covered**: `discrete mathematics` `mathematical proofs` `basic statistics` `O-notation` `discrete probability`   
+
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | ❌ Not Started
@@ -93,13 +94,15 @@ _Resources:_
 
 ### CS Tools
 **Topics covered**: `terminals and shell scripting` `vim` `command line environments` `version control`   
+
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | ❌ Not Started
 
 ### Core systems
 **Topics covered**: `procedural programming` `manual memory management`
-`boolean algebra` `gate logic` `memory` `computer architecture` `assembly` `machine language` `virtual machines` `high-level languages` `compilers` `operating systems` `network protocols`    
+`boolean algebra` `gate logic` `memory` `computer architecture` `assembly` `machine language` `virtual machines` `high-level languages` `compilers` `operating systems` `network protocols`   
+
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | ❌ Not Started
