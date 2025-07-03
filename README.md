@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 # 📚 Credentials & Achievements 🎓
 
 Welcome to my credentials repository!  
