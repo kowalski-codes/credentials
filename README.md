@@ -58,7 +58,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 | [Introduction to Computer Science and Programming using Python](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/intro-cs/README.md) | ❌ Not Started
 
 ### Core CS
-**Topics covered**: `functional programming` `design for testing` `program requirements` `common design patterns` `unit testing` `object-oriented design` `static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Ruby`  
+**Topics covered**: `functional programming` `design for testing` `program requirements` `common design patterns` `unit testing` `object-oriented design` `static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Ruby`   
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [Systematic Program Design](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/spd/README.md) | ❌ Not Started
@@ -70,7 +70,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | ❌ Not Started
 
 ### Core Math
-**Topics covered**: `discrete mathematics` `mathematical proofs` `basic statistics` `O-notation` `discrete probability`  
+**Topics covered**: `discrete mathematics` `mathematical proofs` `basic statistics` `O-notation` `discrete probability`   
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | ❌ Not Started
@@ -91,14 +91,14 @@ _Resources:_
 >  [Mathematics for Computer Science by MIT Open Learning Library*](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) and [Mathematics for Computer Science by MIT OpenCourseWare (OCW)*](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) have the same lessons and curriculum
 
 ### CS Tools
-**Topics covered**: `terminals and shell scripting` `vim` `command line environments` `version control`  
+**Topics covered**: `terminals and shell scripting` `vim` `command line environments` `version control`   
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | ❌ Not Started
 
 ### Core systems
 **Topics covered**: `procedural programming` `manual memory management`
-`boolean algebra` `gate logic` `memory` `computer architecture` `assembly` `machine language` `virtual machines` `high-level languages` `compilers` `operating systems` `network protocols`  
+`boolean algebra` `gate logic` `memory` `computer architecture` `assembly` `machine language` `virtual machines` `high-level languages` `compilers` `operating systems` `network protocols`    
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | ❌ Not Started
