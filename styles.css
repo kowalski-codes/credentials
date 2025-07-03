@@ -1,20 +1,27 @@
-body {
-  background: #181818 !important;
-  color: #e0e0e0 !important;
-}
-a { color: #8ab4f8 !important; }
-header, nav, footer {
-  background: #222 !important;
-}
-pre, code {
-  background: #232323 !important;
-  color: #ffcc99 !important;
+body, html {
+  background: #181a1b !important;
+  color: #e8eaed !important;
 }
 
-@media (prefers-color-scheme: dark) {
-  table, th, td {
-    background-color: #222 !important;
-    color: #eee !important;
-    border-color: #444 !important;
-  }
+a { color: #8ab4f8 !important; }
+
+table, th, td {
+  background-color: #23272a !important;
+  color: #e8eaed !important;
+  border-color: #444 !important;
+}
+
+pre, code {
+  background: #222 !important;
+  color: #e8eaed !important;
+}
+
+input, textarea, select, button {
+  background: #23272a !important;
+  color: #e8eaed !important;
+  border: 1px solid #444 !important;
+}
+
+hr {
+  border-color: #444 !important;
 }
