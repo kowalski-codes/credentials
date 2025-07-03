@@ -1,31 +1,22 @@
-body, html {
-  background: #181a1b !important;
-  color: #e8eaed !important;
+/* General dark mode background */
+body {
+  background-color: #181a1b;
+  color: #e8e6e3;
 }
 
-a { color: #8ab4f8 !important; }
-
-table, th, td {
-  background-color: #23272a !important;
-  color: #e8eaed !important;
-  border-color: #444 !important;
-  border-collapse: separate;
-  overflow: auto;
+/* Table background and borders for dark mode */
+table {
+  background-color: #222426;
+  color: #e8e6e3; /* Ensure text is light */
+  border-collapse: collapse;
 }
 
-pre, code {
-  background: #222 !important;
-  color: #e8eaed !important;
+th, td {
+  border: 1px solid #3a3b3c;
+  padding: 8px;
 }
 
-/*
-input, textarea, select, button {
-  background: #23272a !important;
-  color: #e8eaed !important;
-  border: 1px solid #444 !important;
-}
-*/
-
-hr {
-  border-color: #444 !important;
+/* Optional: Alternate row coloring for readability */
+tr:nth-child(even) {
+  background-color: #292b2d;
 }
