@@ -1,0 +1,12 @@
+body {
+  background: #181818 !important;
+  color: #e0e0e0 !important;
+}
+a { color: #8ab4f8 !important; }
+header, nav, footer {
+  background: #222 !important;
+}
+pre, code {
+  background: #232323 !important;
+  color: #ffcc99 !important;
+}
