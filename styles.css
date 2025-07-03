@@ -10,7 +10,6 @@ table, th, td {
   color: #e8eaed !important;
   border-color: #181a1b !important;
   border-collapse: separate !important;;
-  overflow: auto !important;
 }
 
 pre, code {
