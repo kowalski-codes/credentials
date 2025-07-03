@@ -19,11 +19,11 @@ All credentials here are organized for easy verification and reference.
 
 
 ## Content
-- [OSSU CS](#)
-  - OSSU PRE-COLLEGE MATH
+- [OSSU CS](#open-source-society-university)
+  - [OSSU PRE-COLLEGE MATH](#pre-college-math)
 - [COURSERA](#coursera)
-  - Google Cybersecurity Specialization
-  - Meta Front-End Developer Specialization
+  - [Google Cybersecurity Specialization](google-cybersecurity)
+  - [Meta Front-End Developer Specialization](meta-frontend-dev)
 
 ---
 
