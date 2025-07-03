@@ -1,7 +1,9 @@
 <link rel="stylesheet" href="styles.css">
+<h1 align="center">
+  📚 Credentials & Achievements 🎓
+</h1>
 
-# 📚 Credentials & Achievements 🎓
-
+<p>
 Welcome to my credentials repository!  
 This space showcases my verified certifications, completed courses, and professional achievements in technology and cybersecurity.  
 Here you will find:
@@ -19,6 +21,9 @@ All credentials here are organized for easy verification and reference.
 [![Coursera](https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=coursera&logoColor=blue)](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prekowalski@gmail.com)
 
+<p/>
+  
+---
 
 ## Content
 - [OSSU CS](#open-source-society-university)
@@ -41,8 +46,8 @@ The Open Source Society University (OSSU) curriculum offers a comprehensive **Co
 
 The Open Source Society University (OSSU) curriculum offers a thorough self-guided education in **Pre-college Math**  covering fundamental concepts with support from a global learner community, ideal for motivated, independent students.  
 
-| Course | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
+| Course | Status | Certificate/Grade | Completion Date 
+|-|-|-|-
 | [Arithmetic](/coursepages/arithmetic/README.md) | ⏳ In Progress
 | [Pre-Algebra](/coursepages/pre-algebra/README.md) | ❌ Not Started
 | [Algebra 1](/coursepages/algebra-1/README.md) | ❌ Not Started
