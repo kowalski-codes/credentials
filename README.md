@@ -22,8 +22,8 @@ All credentials here are organized for easy verification and reference.
 - [OSSU CS](#open-source-society-university)
   - [OSSU PRE-COLLEGE MATH](#pre-college-math)
 - [COURSERA](#coursera)
-  - [Google Cybersecurity Specialization](###google-cybersecurity)
-  - [Meta Front-End Developer Specialization](###meta-frontend-dev)
+  - [Google Cybersecurity Specialization](###google-cybersecurity-specialization)
+  - [Meta Front-End Developer Specialization](###meta-frontend-developer-specialization)
 
 ---
 
