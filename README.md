@@ -51,7 +51,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 ### Intro CS
 **Topics covered**:
-`computation` `imperative programming` `basic data structures and algorithms`  
+`computation` `imperative programming` `basic data structures and algorithms`   
 
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
