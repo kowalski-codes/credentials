@@ -23,7 +23,7 @@ All credentials here are organized for easy verification and reference.
   - [OSSU PRE-COLLEGE MATH](#pre-college-math)
 - [COURSERA](#coursera)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
-  - [Meta Front-End Developer Specialization](#meta-frontend-developer-specialization)
+  - [Meta Front-End Developer Specialization](#meta-front-end-developer-specialization)
 
 ---
 
