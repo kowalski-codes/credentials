@@ -3,11 +3,10 @@
   📚 Credentials & Achievements 🎓
 </h1>
 
-
 Welcome to my credentials repository!  
-This space showcases my verified certifications, completed courses, and professional achievements in technology and cybersecurity.  
-Here you will find:
+This space showcases my verified certifications, completed courses, and professional achievements in technology and cybersecurity.
 
+Here you will find:
 - Digital certificates from recognized platforms
 - Course completion records
 - Skill badges and endorsements
