@@ -23,7 +23,7 @@ All credentials here are organized for easy verification and reference.
 
 ---
 
-## Content
+## Contents
 - [OSSU CS](#open-source-society-university)
   - [OSSU Pre-college Math](#pre-college-math)
   - [Intro CS](#intro-cs)
@@ -37,12 +37,12 @@ All credentials here are organized for easy verification and reference.
 
 ---
 
-# [Open Source Society University](https://github.com/kowalski-codes/OSSU-Computer-Science)
-The Open Source Society University (OSSU) curriculum offers a comprehensive **Computer Science** education using top online courses from leading universities. Designed for self-motivated learners, it covers core CS concepts based on undergraduate degree requirements, excluding general education. It’s ideal for those seeking a strong CS foundation, with community support to aid independent study. Courses are carefully selected from world-class institutions to ensure quality and depth in fundamental computing disciplines.
+# [Open Source Society University](https://cs.ossu.dev/)
+The Open Source Society University (OSSU) curriculum offers a comprehensive **[Computer Science](https://cs.ossu.dev/)** education using top online courses from leading universities. Designed for self-motivated learners, it covers core CS concepts based on undergraduate degree requirements, excluding general education. It’s ideal for those seeking a strong CS foundation, with community support to aid independent study. Courses are carefully selected from world-class institutions to ensure quality and depth in fundamental computing disciplines.
 
 ### Pre-College Math
 
-The Open Source Society University (OSSU) curriculum offers a thorough self-guided education in **Pre-college Math**  covering fundamental concepts with support from a global learner community, ideal for motivated, independent students.  
+The Open Source Society University (OSSU) curriculum offers a thorough self-guided education in **[Pre-college Math](https://ossu.dev/precollege-math/)**  covering fundamental concepts with support from a global learner community, ideal for motivated, independent students.  
 
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
@@ -54,6 +54,8 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 | [Trigonometry](https://ossu.dev/precollege-math/coursepages/trigonometry/)  | ❌ Not Started
 | [Precalculus](https://ossu.dev/precollege-math/coursepages/precalculus/) | ❌ Not Started
 
+[🔼back to top🔼](#contents)
+
 ### Intro CS
 **Topics covered**:
 `computation` `imperative programming` `basic data structures and algorithms`   
@@ -61,6 +63,8 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [Introduction to Computer Science and Programming using Python](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/intro-cs/README.md) | ❌ Not Started
+
+[🔼back to top🔼](#contents)
 
 ### Core CS
 **Topics covered**: `functional programming` `design for testing` `program requirements` `common design patterns` `unit testing` `object-oriented design` `static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Ruby`   
@@ -74,6 +78,8 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | ❌ Not Started
 | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | ❌ Not Started
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | ❌ Not Started
+
+[🔼back to top🔼](#contents)
 
 ### Core Math
 **Topics covered**: `discrete mathematics` `mathematical proofs` `basic statistics` `O-notation` `discrete probability`   
@@ -97,12 +103,16 @@ _Resources:_
 >
 >  [Mathematics for Computer Science by MIT Open Learning Library*](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) and [Mathematics for Computer Science by MIT OpenCourseWare (OCW)*](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) have the same lessons and curriculum
 
+[🔼back to top🔼](#contents)
+
 ### CS Tools
 **Topics covered**: `terminals and shell scripting` `vim` `command line environments` `version control`   
 
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | ❌ Not Started
+
+[🔼back to top🔼](#contents)
 
 ### Core systems
 **Topics covered**: `procedural programming` `manual memory management`
@@ -114,6 +124,8 @@ _Resources:_
 | [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | ❌ Not Started
 | [Operating Systems: Three Easy Pieces](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/ostep/README.md) | ❌ Not Started
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | ❌ Not Started
+
+[🔼back to top🔼](#contents)
 
 _**To be continued**_
 
@@ -140,6 +152,8 @@ The Google Cybersecurity Specialization offers foundational training in defendin
 | [Accelerate Your Job Search with AI](https://www.coursera.org/learn/accelerate-your-job-search-with-ai/) | ❌ Not Started
 | **Google Cybersecurity Specialization Certificate** | ⏳ In Progress
 
+[🔼back to top🔼](#contents)
+
 ### [Meta Front-End Developer Specialization](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 The Meta Front-End Developer Specialization provides foundational training in coding and web development. Learners build skills in HTML, CSS, JavaScript, React, Bootstrap, Figma, and GitHub. The curriculum includes hands-on projects, real-world labs, and a capstone project to create a front-end web application. Each course concludes with a project to reinforce learning, covering topics such as version control, UI frameworks, and technical interview preparation.  
 - Instructor: [Meta Staff](https://www.coursera.org/instructor/~30575670)  
@@ -158,6 +172,8 @@ The Meta Front-End Developer Specialization provides foundational training in co
 | [Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone) | ❌ Not Started
 | [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation) | ❌ Not Started
 | **Meta Front-End Developer Specialization Certificate** | ⏳ In Progress
+
+[🔼back to top🔼](#contents)
 
 
 
