@@ -3,26 +3,21 @@ body, html {
   color: #e8eaed !important;
 }
 
-.markdown-body {
-  background: transparent !important;
-  color: #e8eaed !important;
-}
-
-.markdown-body a {
+a {
   color: #8ab4f8 !important;
 }
 
-.markdown-body table, .markdown-body th, .markdown-body td {
+table, th, td {
   background-color: #23272a !important;
   color: #e8eaed !important;
   border-color: #444 !important;
 }
 
-.markdown-body pre, .markdown-body code {
+pre, code {
   background: #222 !important;
   color: #e8eaed !important;
 }
 
-.markdown-body hr {
+hr {
   border-color: #444 !important;
 }
