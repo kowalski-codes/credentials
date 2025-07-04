@@ -47,14 +47,14 @@ The Open Source Society University (OSSU) curriculum offers a comprehensive **Co
 The Open Source Society University (OSSU) curriculum offers a thorough self-guided education in **Pre-college Math**  covering fundamental concepts with support from a global learner community, ideal for motivated, independent students.  
 
 | Course | Status | Certificate/Grade | Completion Date 
-|-|-|-|-
-| [Arithmetic](/coursepages/arithmetic/README.md) | ⏳ In Progress
-| [Pre-Algebra](/coursepages/pre-algebra/README.md) | ❌ Not Started
-| [Algebra 1](/coursepages/algebra-1/README.md) | ❌ Not Started
-| [Geometry](/coursepages/geometry/README.md) | ❌ Not Started
-| [Algebra 2](/coursepages/algebra-2/README.md) | ❌ Not Started
-| [Trigonometry](/coursepages/trigonometry/README.md)  | ❌ Not Started
-| [Precalculus](/coursepages/precalculus/README.md) | ❌ Not Started
+|-|-|-|-|
+| [Arithmetic](/coursepages/arithmetic/README.md) | ⏳ In Progress |-|-|
+| [Pre-Algebra](/coursepages/pre-algebra/README.md) | ❌ Not Started |-|-|
+| [Algebra 1](/coursepages/algebra-1/README.md) | ❌ Not Started |-|-|
+| [Geometry](/coursepages/geometry/README.md) | ❌ Not Started |-|-|
+| [Algebra 2](/coursepages/algebra-2/README.md) | ❌ Not Started |-|-|
+| [Trigonometry](/coursepages/trigonometry/README.md)  | ❌ Not Started |-|-|
+| [Precalculus](/coursepages/precalculus/README.md) | ❌ Not Started |-|-|
 
 ### Intro CS
 **Topics covered**:
@@ -69,7 +69,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
-| [Systematic Program Design](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/spd/README.md) | ❌ Not Started
+| [Systematic Program Design](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/spd/README.md) | ❌ Not Started -|-|
 | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | ❌ Not Started
 | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | ❌ Not Started
 | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | ❌ Not Started
