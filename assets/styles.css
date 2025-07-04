@@ -11,6 +11,7 @@ table, th, td {
   background-color: #23272a !important;
   color: #e8eaed !important;
   border-color: #444 !important;
+  border-collapse: collapse !important;
 }
 
 pre, code {
