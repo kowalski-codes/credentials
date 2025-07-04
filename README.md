@@ -44,8 +44,8 @@ The Open Source Society University (OSSU) curriculum offers a comprehensive **Co
 
 The Open Source Society University (OSSU) curriculum offers a thorough self-guided education in **Pre-college Math**  covering fundamental concepts with support from a global learner community, ideal for motivated, independent students.  
 
-| Course | Status | Certificate/Grade | Completion Date 
-|-|-|-|-
+| Course | Status | Certificate/Grade | Completion Date |
+|-|-|-|-|
 | [Arithmetic](/coursepages/arithmetic/README.md) | ⏳ In Progress
 | [Pre-Algebra](/coursepages/pre-algebra/README.md) | ❌ Not Started
 | [Algebra 1](/coursepages/algebra-1/README.md) | ❌ Not Started
@@ -130,8 +130,8 @@ The Google Cybersecurity Specialization offers foundational training in defendin
 | Google Cybersecurity Specialization | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | ✅ Done | [Certificate](https://www.coursera.org/account/accomplishments/verify/USBAQGOUQW0V) | June 26, 2025
-| [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks) | ⏳ In Progress
-| [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security) | ❌ Not Started
+| [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks) | ✅ Done | [Certificate](https://www.coursera.org/account/accomplishments/verify/KY91MBPM9D0H) | July 4, 2025
+| [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security) | ⏳ In Progress
 | [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql) | ❌ Not Started
 | [Assets, Threats, and Vulnerabilities](https://www.coursera.org/learn/assets-threats-and-vulnerabilities) | ❌ Not Started
 | [Sound the Alarm: Detection and Response](https://www.coursera.org/learn/detection-and-response) | ❌ Not Started
