@@ -22,3 +22,8 @@ pre, code {
 hr {
   border-color: #444 !important;
 }
+
+.github-link,
+.github-corner {
+  display: none !important;
+}
