@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="/assets/styles.css">
 <h1 align="center">
   📚 Credentials & Achievements 🎓
 </h1>
