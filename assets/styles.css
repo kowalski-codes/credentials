@@ -23,13 +23,14 @@ hr {
   border-color: #444 !important;
 }
 
-container-lg px-3 my-5 markdown-body {
+/* container-lg px-3 my-5 markdown-body {
   display: none !important;
 }
 
 h1 > a {
   display: none !important;
 }
+*/
 git-link {
   display: none !important;
 }
