@@ -46,13 +46,13 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
-| [Arithmetic](/coursepages/arithmetic/README.md) | ⏳ In Progress
-| [Pre-Algebra](/coursepages/pre-algebra/README.md) | ❌ Not Started
-| [Algebra 1](/coursepages/algebra-1/README.md) | ❌ Not Started
-| [Geometry](/coursepages/geometry/README.md) | ❌ Not Started
-| [Algebra 2](/coursepages/algebra-2/README.md) | ❌ Not Started
-| [Trigonometry](/coursepages/trigonometry/README.md)  | ❌ Not Started
-| [Precalculus](/coursepages/precalculus/README.md) | ❌ Not Started
+| [Arithmetic](https://ossu.dev/precollege-math/coursepages/arithmetic/) | ⏳ In Progress
+| [Pre-Algebra](https://ossu.dev/precollege-math/coursepages/pre-algebra/) | ❌ Not Started
+| [Algebra 1](https://ossu.dev/precollege-math/coursepages/algebra-1/) | ❌ Not Started
+| [Geometry](https://ossu.dev/precollege-math/coursepages/geometry/) | ❌ Not Started
+| [Algebra 2](https://ossu.dev/precollege-math/coursepages/algebra-2/) | ❌ Not Started
+| [Trigonometry](https://ossu.dev/precollege-math/coursepages/trigonometry/)  | ❌ Not Started
+| [Precalculus](https://ossu.dev/precollege-math/coursepages/precalculus/) | ❌ Not Started
 
 ### Intro CS
 **Topics covered**:
