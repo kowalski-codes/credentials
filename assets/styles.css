@@ -23,6 +23,12 @@ hr {
   border-color: #444 !important;
 }
 
-.git-link {
+.container-lg px-3 my-5 markdown-body {
   display: none !important;
 }
+
+h1 > a {
+  display: none !important;
+}
+
+
