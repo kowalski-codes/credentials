@@ -9,22 +9,13 @@ table, th, td {
   background-color: #23272a !important;
   color: #e8eaed !important;
   border-color: #444 !important;
-  border-collapse: separate;
-  overflow: auto;
+  border-collapse: collapse !important;
 }
 
 pre, code {
   background: #222 !important;
   color: #e8eaed !important;
 }
-
-/*
-input, textarea, select, button {
-  background: #23272a !important;
-  color: #e8eaed !important;
-  border: 1px solid #444 !important;
-}
-*/
 
 hr {
   border-color: #444 !important;
