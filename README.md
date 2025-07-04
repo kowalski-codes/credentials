@@ -1,7 +1,5 @@
-<h1><a href="https://kowalski-codes.github.io/Credentials/" class="git-link"></a></h1>
-
-
 <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+<a href="https://kowalski-codes.github.io/Credentials/" class="git-link"></a>
 <h1 align="center">
   📚 Credentials & Achievements 🎓
 </h1>
