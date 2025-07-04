@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/styles.css">
+ <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
 <h1 align="center">
   📚 Credentials & Achievements 🎓
 </h1>
