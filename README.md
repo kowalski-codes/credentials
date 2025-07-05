@@ -33,6 +33,7 @@ All credentials here are organized for easy verification and reference.
 - [Coursera](#coursera)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
   - [Meta Front-End Developer Specialization](#meta-front-end-developer-specialization)
+  - [IBM Java Developer Specialization](#ibm-java-developer-specialization)
 
 ---
 
@@ -53,7 +54,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 | [Trigonometry](https://ossu.dev/precollege-math/coursepages/trigonometry/)  | ❌ Not Started
 | [Precalculus](https://ossu.dev/precollege-math/coursepages/precalculus/) | ❌ Not Started
 
-[🔼back to top🔼](#contents)
+[back to top🔼](#contents)
 
 ### Intro CS
 **Topics covered**:
@@ -63,7 +64,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 |-|-|-|-|
 | [Introduction to Computer Science and Programming using Python](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/intro-cs/README.md) | ❌ Not Started
 
-[🔼back to top🔼](#contents)
+[back to top🔼](#contents)
 
 ### Core CS
 **Topics covered**: `functional programming` `design for testing` `program requirements` `common design patterns` `unit testing` `object-oriented design` `static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Ruby`   
@@ -78,7 +79,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | ❌ Not Started
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | ❌ Not Started
 
-[🔼back to top🔼](#contents)
+[back to top🔼](#contents)
 
 ### Core Math
 **Topics covered**: `discrete mathematics` `mathematical proofs` `basic statistics` `O-notation` `discrete probability`   
@@ -102,7 +103,7 @@ _Resources:_
 >
 >  [Mathematics for Computer Science by MIT Open Learning Library*](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) and [Mathematics for Computer Science by MIT OpenCourseWare (OCW)*](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) have the same lessons and curriculum
 
-[🔼back to top🔼](#contents)
+[back to top🔼](#contents)
 
 ### CS Tools
 **Topics covered**: `terminals and shell scripting` `vim` `command line environments` `version control`   
@@ -111,7 +112,7 @@ _Resources:_
 |-|-|-|-|
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | ❌ Not Started
 
-[🔼back to top🔼](#contents)
+[back to top🔼](#contents)
 
 ### Core systems
 **Topics covered**: `procedural programming` `manual memory management`
@@ -124,7 +125,7 @@ _Resources:_
 | [Operating Systems: Three Easy Pieces](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/ostep/README.md) | ❌ Not Started
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | ❌ Not Started
 
-[🔼back to top🔼](#contents)
+[back to top🔼](#contents)
 
 _**To be continued**_
 
@@ -149,9 +150,9 @@ The Google Cybersecurity Specialization offers foundational training in defendin
 | [Automate Cybersecurity Tasks with Python](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/) | ❌ Not Started
 | [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/) | ❌ Not Started
 | [Accelerate Your Job Search with AI](https://www.coursera.org/learn/accelerate-your-job-search-with-ai/) | ❌ Not Started
-| **Google Cybersecurity Specialization Certificate** | ⏳ In Progress
+| **Google Cybersecurity Professional Certificate** | ⏳ In Progress
 
-[🔼back to top🔼](#contents)
+[back to top🔼](#contents)
 
 ### [Meta Front-End Developer Specialization](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 The Meta Front-End Developer Specialization provides foundational training in coding and web development. Learners build skills in HTML, CSS, JavaScript, React, Bootstrap, Figma, and GitHub. The curriculum includes hands-on projects, real-world labs, and a capstone project to create a front-end web application. Each course concludes with a project to reinforce learning, covering topics such as version control, UI frameworks, and technical interview preparation.  
@@ -170,10 +171,44 @@ The Meta Front-End Developer Specialization provides foundational training in co
 | [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design) | ❌ Not Started
 | [Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone) | ❌ Not Started
 | [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation) | ❌ Not Started
-| **Meta Front-End Developer Specialization Certificate** | ⏳ In Progress
+| **Meta Front-End Developer Professional Certificate** | ⏳ In Progress
 
-[🔼back to top🔼](#contents)
+[back to top🔼](#contents)
 
+### [IBM Java Developer Specialization](https://www.coursera.org/professional-certificates/java-developer)
+The IBM Java Developer Specialization prepares learners for entry-level Java Developer roles. It covers Java programming, web development, database integration, and modern deployment practices. Learners gain hands-on experience with tools like Git and Docker, build real-world projects, and learn to integrate front-end technologies and frameworks like Spring. The program includes applied learning through labs and over ten practical projects.
+- Instructors:
+  - [IBM Skills Network Team](https://www.coursera.org/instructor/ibm-skills-network)
+    - [Muhammad Yahya, IBM](https://www.coursera.org/instructor/~116916949)
+    - [Rav Ahuja, IBM](https://www.coursera.org/instructor/ravahuja)
+    - [Ramanujam Srinivasan, IBM](https://www.coursera.org/instructor/~96619963)
+    - [Michelle Saltoun, IBM](https://www.coursera.org/instructor/michelle-saltoun)
+    - [Upkar Lidder, IBM](https://www.coursera.org/instructor/upkar-lidder)
+    - [Bethany Hudnutt, IBM](https://www.coursera.org/instructor/~94982672)
+ - [Skill-Up EdTech Team](https://www.coursera.org/instructor/skillup-edtech)
+   - [Lavanya Thiruvali Sunderarajan, Skill-Up EdTec](https://www.coursera.org/instructor/~69775033)
+- Partners:
+  - [IBM](https://www.coursera.org/partners/ibm-skills-network)
+  - [SkillUp EdTech](https://www.coursera.org/partners/skillup-ed-tech)
+- Number of Courses: 12
+
+| IBM Java Developer Specialization | Status | Certificate/Grade | Completion Date |
+|-|-|-|-|
+| [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering) | ⏳ In Progress
+| [Java Programming for Beginners](https://www.coursera.org/learn/java-for-programming-beginners) | ❌ Not Started
+| [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github) | ❌ Not Started
+| [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-program-in-java) | ❌ Not Started
+| [Introduction to HTML, CSS, & JavaScript](https://www.coursera.org/learn/introduction-html-css-javascript) | ⏳ In Progress
+| [Cloud Native, Microservices, Containers, DevOps and Agile](https://www.coursera.org/learn/cloud-native-microservices-containers-devops-agile) | ❌ Not Started
+| [Spring Framework for Java Development](https://www.coursera.org/learn/spring-framework-for-java-development) | ❌ Not Started
+| [Java Development with Databases](https://www.coursera.org/learn/java-development-with-databases) | ❌ Not Started
+| [Java Development Capstone Project](https://www.coursera.org/learn/java-development-capstone-project) | ❌ Not Started
+| [Software Developer Career Guide and Interview Preparation](https://www.coursera.org/learn/software-developer-career-guide-and-interview-preparation) | ❌ Not Started
+| [Generative AI: Elevate your Software Development Career](https://www.coursera.org/learn/generative-ai-elevate-software-development-career) | ❌ Not Started
+| [Generative AI for Java and Spring Development](https://www.coursera.org/learn/generative-ai-for-java-and-spring-development) | ❌ Not Started
+| **IBM Java Developer Professional Certificate** | ⏳ In Progress
+
+[back to top🔼](#contents)
 
 
 
