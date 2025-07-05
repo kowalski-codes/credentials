@@ -1,5 +1,5 @@
-name: true
-title: false
+name: Credentials
+title: null
 remote_theme: "jekyll/minima@7d91bb5"
 minima:
   skin: auto
