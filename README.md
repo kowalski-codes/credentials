@@ -1,6 +1,8 @@
-<h1 align="center">
-  📚 Credentials & Achievements 🎓
-</h1>
+<header class="site-header">
+  <h1 align="center">
+    📚 Credentials & Achievements 🎓
+  </h1>
+</header>
 
 Welcome to my credentials repository!  
 This space showcases my verified certifications, completed courses, and professional achievements in technology and cybersecurity.
