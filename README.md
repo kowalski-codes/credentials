@@ -24,10 +24,10 @@ All credentials here are organized for easy verification and reference.
 - [Intro CS](#intro-cs)
 - [Core CS](#core-cs)
    - [Core Programming](#core-programming)
-   - [Core mMth](#core-math)
+   - [Core Math](#core-math)
    - [CS Tools](#cs-tools)
    - [Core Systems](#core-systems)
-   - Core Theory
+   - [Core Theory](#core-theory)
    - Core Security
    - Core Applications
    - Core Ethics
@@ -53,8 +53,8 @@ The Open Source Society University (OSSU) curriculum offers a comprehensive **[C
 
 The Open Source Society University (OSSU) curriculum offers a thorough self-guided education in **[Pre-college Math](https://ossu.dev/precollege-math/)**  covering fundamental concepts with support from a global learner community, ideal for motivated, independent students.  
 
-| Course | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
 | [Arithmetic](https://ossu.dev/precollege-math/coursepages/arithmetic/) | ⏳ In Progress
 | [Pre-Algebra](https://ossu.dev/precollege-math/coursepages/pre-algebra/) | ❌ Not Started
 | [Algebra 1](https://ossu.dev/precollege-math/coursepages/algebra-1/) | ❌ Not Started
@@ -69,8 +69,8 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 **Topics covered**:
 `computation` `imperative programming` `basic data structures and algorithms`   
 
-| Course | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
 | [Introduction to Computer Science and Programming using Python](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/intro-cs/README.md) | ❌ Not Started
 
 [back to top🔼](#contents)
@@ -80,8 +80,8 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 ### Core programming
 **Topics covered**: `functional programming` `design for testing` `program requirements` `common design patterns` `unit testing` `object-oriented design` `static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Ruby`   
 
-| Course | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
 | [Systematic Program Design](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/spd/README.md) | ❌ Not Started
 | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | ❌ Not Started
 | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | ⏳ In Progress
@@ -95,8 +95,8 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 ### Core Math
 **Topics covered**: `discrete mathematics` `mathematical proofs` `basic statistics` `O-notation` `discrete probability`   
 
-| Course | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
 | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | ❌ Not Started
 | [Single Variable Calculus*](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | ❌ Not Started
 | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | ❌ Not Started
@@ -119,8 +119,8 @@ _Resources:_
 ### CS Tools
 **Topics covered**: `terminals and shell scripting` `vim` `command line environments` `version control`   
 
-| Course | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | ❌ Not Started
 
 [back to top🔼](#contents)
@@ -129,14 +129,30 @@ _Resources:_
 **Topics covered**: `procedural programming` `manual memory management`
 `boolean algebra` `gate logic` `memory` `computer architecture` `assembly` `machine language` `virtual machines` `high-level languages` `compilers` `operating systems` `network protocols`   
 
-| Course | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
 | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | ❌ Not Started
 | [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | ❌ Not Started
 | [Operating Systems: Three Easy Pieces](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/ostep/README.md) | ❌ Not Started
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | ❌ Not Started
 
 [back to top🔼](#contents)
+
+### Core Theory
+**Topics covered**: `divide and conquer` `sorting and searching` `randomized algorithms` `graph search` `shortest paths` `data structures` `greedy algorithms` `minimum spanning trees` `dynamic programming` `NP-completeness`   
+
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | ❌ Not Started
+| [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | ❌ Not Started
+| [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | ❌ Not Started
+| [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | ❌ Not Started
+
+[back to top🔼](#contents)
+
+### Core Security
+### Core Applications
+### Core Ethics
 
 _**To be continued**_
 
@@ -150,10 +166,10 @@ Instructor: [Google Career Certificates](https://www.coursera.org/instructor/goo
 Partner: [Google](https://www.coursera.org/partners/google)  
 Number of Courses: 9
 
-| Google Cybersecurity Specialization | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
-| [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | ✅ Done | [Certificate](https://www.coursera.org/account/accomplishments/verify/USBAQGOUQW0V) | June 26, 2025
-| [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks) | ✅ Done | [Certificate](https://www.coursera.org/account/accomplishments/verify/KY91MBPM9D0H) | July 4, 2025
+| Google Cybersecurity Specialization | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/USBAQGOUQW0V) | June 26, 2025
+| [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/KY91MBPM9D0H) | July 4, 2025
 | [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security) | ⏳ In Progress
 | [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql) | ❌ Not Started
 | [Assets, Threats, and Vulnerabilities](https://www.coursera.org/learn/assets-threats-and-vulnerabilities) | ❌ Not Started
@@ -172,9 +188,9 @@ Instructor: [Meta Staff](https://www.coursera.org/instructor/~30575670)
 Partner: [Meta](https://www.coursera.org/partners/meta)  
 Number of Courses: 9
 
-| Meta Front-End Developer Specialization | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
-| [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development) | ✅ Done | [Certificate](https://www.coursera.org/account/accomplishments/verify/ELBHMFFQMVWN) | August 23, 2023
+| Meta Front-End Developer Specialization | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/ELBHMFFQMVWN) | August 23, 2023
 | [Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript) | ❌ Not Started
 | [Version Control](https://www.coursera.org/learn/introduction-to-version-control) | ❌ Not Started
 | [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth) | ❌ Not Started
@@ -190,23 +206,19 @@ Number of Courses: 9
 ## [IBM Java Developer Specialization](https://www.coursera.org/professional-certificates/java-developer)
 The IBM Java Developer Specialization prepares learners for entry-level Java Developer roles. It covers Java programming, web development, database integration, and modern deployment practices. Learners gain hands-on experience with tools like Git and Docker, build real-world projects, and learn to integrate front-end technologies and frameworks like Spring. The program includes applied learning through labs and over ten practical projects.
 
-Instructors: [IBM Skills Network Team](https://www.coursera.org/instructor/ibm-skills-network) and [Skill-Up EdTech Team](https://www.coursera.org/instructor/skillup-edtech)
-  <!--
-  - [Muhammad Yahya, IBM](https://www.coursera.org/instructor/~116916949)  
+Instructors: [IBM Skills Network Team](https://www.coursera.org/instructor/ibm-skills-network) and [Skill-Up EdTech Team](https://www.coursera.org/instructor/skillup-edtech)  
+Partners: [IBM](https://www.coursera.org/partners/ibm-skills-network) and [SkillUp EdTech](https://www.coursera.org/partners/skillup-ed-tech)  
+Number of Courses: 12
+  <!--  - [Muhammad Yahya, IBM](https://www.coursera.org/instructor/~116916949)  
   - [Rav Ahuja, IBM](https://www.coursera.org/instructor/ravahuja)  
   - [Ramanujam Srinivasan, IBM](https://www.coursera.org/instructor/~96619963)  
   - [Michelle Saltoun, IBM](https://www.coursera.org/instructor/michelle-saltoun)  
   - [Upkar Lidder, IBM](https://www.coursera.org/instructor/upkar-lidder)  
-  - [Bethany Hudnutt, IBM](https://www.coursera.org/instructor/~94982672)  -->
-  
-<!--  - [Lavanya Thiruvali Sunderarajan, Skill-Up EdTec](https://www.coursera.org/instructor/~69775033)  -->
+  - [Bethany Hudnutt, IBM](https://www.coursera.org/instructor/~94982672)
+  - [Lavanya Thiruvali Sunderarajan, Skill-Up EdTec](https://www.coursera.org/instructor/~69775033)  -->
 
-Partners: [IBM](https://www.coursera.org/partners/ibm-skills-network) and [SkillUp EdTech](https://www.coursera.org/partners/skillup-ed-tech)  
-
-Number of Courses: 12
-
-| IBM Java Developer Specialization | Status | Certificate/Grade | Completion Date |
-|-|-|-|-|
+| IBM Java Developer Specialization | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
 | [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering) | ⏳ In Progress
 | [Java Programming for Beginners](https://www.coursera.org/learn/java-for-programming-beginners) | ❌ Not Started
 | [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github) | ❌ Not Started
