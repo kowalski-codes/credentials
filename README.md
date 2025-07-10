@@ -19,14 +19,27 @@ All credentials here are organized for easy verification and reference.
 ---
 
 ## Contents
-- [OSSU CS](#open-source-society-university)
-  - [OSSU Pre-college Math](#pre-college-math)
-  - [Intro CS](#intro-cs)
-  - [Core CS](#core-cs)
-  - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
-  - [Core Systems](c#ore-systems)
-- [Coursera](#coursera)
+### [OSSU CS](#open-source-society-university)
+- [OSSU Pre-college Math](#pre-college-math)
+- [Intro CS](#intro-cs)
+- [Core CS](#core-cs)
+   - [Core Programming](#core-programming)
+   - [Core mMth](#core-math)
+   - [CS Tools](#cs-tools)
+   - [Core Systems](#core-systems)
+   - Core Theory
+   - Core Security
+   - Core Applications
+   - Core Ethics
+- Advanced CS
+  - Advanced programming
+  - Advanced systems
+  - Advanced theory
+  - Advanced information security
+  - Advanced math
+- Final project
+
+### [COURSERA](#coursera)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
   - [Meta Front-End Developer Specialization](#meta-front-end-developer-specialization)
   - [IBM Java Developer Specialization](#ibm-java-developer-specialization)
@@ -36,7 +49,7 @@ All credentials here are organized for easy verification and reference.
 # [Open Source Society University](https://cs.ossu.dev/)
 The Open Source Society University (OSSU) curriculum offers a comprehensive **[Computer Science](https://cs.ossu.dev/)** education using top online courses from leading universities. Designed for self-motivated learners, it covers core CS concepts based on undergraduate degree requirements, excluding general education. It’s ideal for those seeking a strong CS foundation, with community support to aid independent study. Courses are carefully selected from world-class institutions to ensure quality and depth in fundamental computing disciplines.
 
-### Pre-College Math
+## Pre-College Math
 
 The Open Source Society University (OSSU) curriculum offers a thorough self-guided education in **[Pre-college Math](https://ossu.dev/precollege-math/)**  covering fundamental concepts with support from a global learner community, ideal for motivated, independent students.  
 
@@ -52,7 +65,7 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 [back to top🔼](#contents)
 
-### Intro CS
+## Intro CS
 **Topics covered**:
 `computation` `imperative programming` `basic data structures and algorithms`   
 
@@ -62,18 +75,20 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 [back to top🔼](#contents)
 
-### Core CS
+## Core CS
+
+### Core programming
 **Topics covered**: `functional programming` `design for testing` `program requirements` `common design patterns` `unit testing` `object-oriented design` `static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Ruby`   
 
 | Course | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
 | [Systematic Program Design](https://github.com/kowalski-codes/OSSU-Computer-Science/blob/master/coursepages/spd/README.md) | ❌ Not Started
 | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | ❌ Not Started
-| [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | ❌ Not Started
-| [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | ❌ Not Started
-| [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | ❌ Not Started
+| [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | ⏳ In Progress
+| [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | ⏳ In Progress
+| [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | ⏳ In Progress
 | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | ❌ Not Started
-| [Software Architecture](https://www.coursera.org/learn/software-architecture) | ❌ Not Started
+| [Software Architecture](https://www.coursera.org/learn/software-architecture) | ⏳ In Progress
 
 [back to top🔼](#contents)
 
@@ -125,15 +140,15 @@ _Resources:_
 
 _**To be continued**_
 
-
 ---
 # [Coursera](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
 
-### [Google Cybersecurity Specialization](https://www.coursera.org/professional-certificates/google-cybersecurity)
+## [Google Cybersecurity Specialization](https://www.coursera.org/professional-certificates/google-cybersecurity)
 The Google Cybersecurity Specialization offers foundational training in defending organizations against cyber threats. Across eight courses, learners gain hands-on experience with tools like Python, Linux, SQL, SIEM, and IDS. The curriculum features real-world scenarios, labs, and portfolio projects to develop analysis, problem-solving, and communication skills. Completion prepares learners for entry-level roles and supports readiness for the **CompTIA Security+** exam.  
-- Instructor: [Google Career Certificates](https://www.coursera.org/instructor/google-career-certificates)  
-- Partner: [Google](https://www.coursera.org/partners/google)  
-- Number of Courses: 9
+
+Instructor: [Google Career Certificates](https://www.coursera.org/instructor/google-career-certificates)  
+Partner: [Google](https://www.coursera.org/partners/google)  
+Number of Courses: 9
 
 | Google Cybersecurity Specialization | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
@@ -150,11 +165,12 @@ The Google Cybersecurity Specialization offers foundational training in defendin
 
 [back to top🔼](#contents)
 
-### [Meta Front-End Developer Specialization](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+## [Meta Front-End Developer Specialization](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 The Meta Front-End Developer Specialization provides foundational training in coding and web development. Learners build skills in HTML, CSS, JavaScript, React, Bootstrap, Figma, and GitHub. The curriculum includes hands-on projects, real-world labs, and a capstone project to create a front-end web application. Each course concludes with a project to reinforce learning, covering topics such as version control, UI frameworks, and technical interview preparation.  
-- Instructor: [Meta Staff](https://www.coursera.org/instructor/~30575670)  
-- Partner: [Meta](https://www.coursera.org/partners/meta)  
-- Number of Courses: 9
+
+Instructor: [Meta Staff](https://www.coursera.org/instructor/~30575670)  
+Partner: [Meta](https://www.coursera.org/partners/meta)  
+Number of Courses: 9
 
 | Meta Front-End Developer Specialization | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
@@ -171,22 +187,23 @@ The Meta Front-End Developer Specialization provides foundational training in co
 
 [back to top🔼](#contents)
 
-### [IBM Java Developer Specialization](https://www.coursera.org/professional-certificates/java-developer)
+## [IBM Java Developer Specialization](https://www.coursera.org/professional-certificates/java-developer)
 The IBM Java Developer Specialization prepares learners for entry-level Java Developer roles. It covers Java programming, web development, database integration, and modern deployment practices. Learners gain hands-on experience with tools like Git and Docker, build real-world projects, and learn to integrate front-end technologies and frameworks like Spring. The program includes applied learning through labs and over ten practical projects.
-- Instructors:
-  - [IBM Skills Network Team](https://www.coursera.org/instructor/ibm-skills-network)
-    - [Muhammad Yahya, IBM](https://www.coursera.org/instructor/~116916949)
-    - [Rav Ahuja, IBM](https://www.coursera.org/instructor/ravahuja)
-    - [Ramanujam Srinivasan, IBM](https://www.coursera.org/instructor/~96619963)
-    - [Michelle Saltoun, IBM](https://www.coursera.org/instructor/michelle-saltoun)
-    - [Upkar Lidder, IBM](https://www.coursera.org/instructor/upkar-lidder)
-    - [Bethany Hudnutt, IBM](https://www.coursera.org/instructor/~94982672)
- - [Skill-Up EdTech Team](https://www.coursera.org/instructor/skillup-edtech)
-   - [Lavanya Thiruvali Sunderarajan, Skill-Up EdTec](https://www.coursera.org/instructor/~69775033)
-- Partners:
-  - [IBM](https://www.coursera.org/partners/ibm-skills-network)
-  - [SkillUp EdTech](https://www.coursera.org/partners/skillup-ed-tech)
-- Number of Courses: 12
+
+Instructors: [IBM Skills Network Team](https://www.coursera.org/instructor/ibm-skills-network) and [Skill-Up EdTech Team](https://www.coursera.org/instructor/skillup-edtech)
+  <!--
+  - [Muhammad Yahya, IBM](https://www.coursera.org/instructor/~116916949)  
+  - [Rav Ahuja, IBM](https://www.coursera.org/instructor/ravahuja)  
+  - [Ramanujam Srinivasan, IBM](https://www.coursera.org/instructor/~96619963)  
+  - [Michelle Saltoun, IBM](https://www.coursera.org/instructor/michelle-saltoun)  
+  - [Upkar Lidder, IBM](https://www.coursera.org/instructor/upkar-lidder)  
+  - [Bethany Hudnutt, IBM](https://www.coursera.org/instructor/~94982672)  -->
+  
+<!--  - [Lavanya Thiruvali Sunderarajan, Skill-Up EdTec](https://www.coursera.org/instructor/~69775033)  -->
+
+Partners: [IBM](https://www.coursera.org/partners/ibm-skills-network) and [SkillUp EdTech](https://www.coursera.org/partners/skillup-ed-tech)  
+
+Number of Courses: 12
 
 | IBM Java Developer Specialization | Status | Certificate/Grade | Completion Date |
 |-|-|-|-|
@@ -206,6 +223,7 @@ The IBM Java Developer Specialization prepares learners for entry-level Java Dev
 
 [back to top🔼](#contents)
 
+_**To be continued**_
 
 
 
