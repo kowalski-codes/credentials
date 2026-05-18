@@ -160,13 +160,13 @@ _**To be continued**_
 ---
 # [Coursera](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
 
-## [Google AI Professional Certificate](https://www.coursera.org/professional-certificates/google-ai)
-The Google AI Professional Certificate helps learners move from basic knowledge to true AI fluency with hands-on projects across six domains. Built by Google experts and validated by employers, it focuses on practical applications like data analysis, content creation, and app building. By completing 20+ activities, you’ll build a portfolio of job-ready solutions and earn a certificate proving your readiness for the AI-enabled workforce.
+## [Google AI Specialization](https://www.coursera.org/professional-certificates/google-ai)
+The Google AI Specialization helps learners move from basic knowledge to true AI fluency with hands-on projects across six domains. Built by Google experts and validated by employers, it focuses on practical applications like data analysis, content creation, and app building. By completing 20+ activities, you’ll build a portfolio of job-ready solutions and earn a certificate proving your readiness for the AI-enabled workforce.
 
 Instructor: [Google Career Certificates](https://www.coursera.org/instructor/google-career-certificates)  
 Partner: [Google](https://www.coursera.org/partners/google)  
 Number of Courses: 7
-⏳ In Progress
+
 | Google AI Specialization | Status | Files | Certificate/Grade | Completion Date |
 |-|-|-|-|-|
 | [AI Fundamentals](https://www.coursera.org/learn/google-ai-fundamentals) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/records/GRW3Z9QG9Q4J) | May 15, 2026
