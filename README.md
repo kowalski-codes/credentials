@@ -175,7 +175,7 @@ Number of Courses: 7
 | [AI for Writing and Communicating](https://www.coursera.org/learn/google-ai-for-writing-and-communicating) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/certificate/9TM4W1F29X5K) | May 19, 2026
 | [AI for Content Creation](https://www.coursera.org/learn/google-ai-for-content-creation) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/certificate/MMC3AICK0T59) | May 19, 2026
 | [AI for Data Analysis](https://www.coursera.org/learn/google-ai-for-data-analysis/) | ⏳ In Progress
-| [AI for App Building](hhttps://www.coursera.org/learn/google-ai-for-app-building/) | ⏳ In Progress
+| [AI for App Building](https://www.coursera.org/learn/google-ai-for-app-building/) | ⏳ In Progress
 | **Google AI Professional Certificate** | ⏳ In Progress
 
 [back to top🔼](#contents)
