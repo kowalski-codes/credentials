@@ -40,6 +40,7 @@ All credentials here are organized for easy verification and reference.
 - Final project
 
 ### [COURSERA](#coursera)
+  - [Google AI Specialization](#google-ai-specialization)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
   - [Meta Front-End Developer Specialization](#meta-front-end-developer-specialization)
   - [IBM Java Developer Specialization](#ibm-java-developer-specialization)
@@ -158,6 +159,26 @@ _**To be continued**_
 
 ---
 # [Coursera](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
+
+## [Google AI Professional Certificate](https://www.coursera.org/professional-certificates/google-ai)
+The Google AI Professional Certificate helps learners move from basic knowledge to true AI fluency with hands-on projects across six domains. Built by Google experts and validated by employers, it focuses on practical applications like data analysis, content creation, and app building. By completing 20+ activities, you’ll build a portfolio of job-ready solutions and earn a certificate proving your readiness for the AI-enabled workforce.
+
+Instructor: [Google Career Certificates](https://www.coursera.org/instructor/google-career-certificates)  
+Partner: [Google](https://www.coursera.org/partners/google)  
+Number of Courses: 7
+⏳ In Progress
+| Google AI Specialization | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [AI Fundamentals](https://www.coursera.org/learn/google-ai-fundamentals) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/records/GRW3Z9QG9Q4J) | May 15, 2026
+| [AI for Brainstorming and Planning](https://www.coursera.org/learn/google-ai-for-brainstorming-and-planning) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/records/2T0VBEFKS0RF) | May 16, 2026
+| [AI for Research and Insights](https://www.coursera.org/learn/google-ai-for-research-and-insights) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/certificate/XKH0K44MVUMP) | May 16, 2026
+| [AI for Writing and Communicating](https://www.coursera.org/learn/google-ai-for-writing-and-communicating) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/certificate/9TM4W1F29X5K) | May 19, 2026
+| [AI for Content Creation](https://www.coursera.org/learn/google-ai-for-content-creation) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/certificate/MMC3AICK0T59) | May 19, 2026
+| [AI for Data Analysis](https://www.coursera.org/learn/google-ai-for-data-analysis/) | ⏳ In Progress
+| [AI for App Building](hhttps://www.coursera.org/learn/google-ai-for-app-building/) | ⏳ In Progress
+| **Google AI Professional Certificate** | ⏳ In Progress
+
+[back to top🔼](#contents)
 
 ## [Google Cybersecurity Specialization](https://www.coursera.org/professional-certificates/google-cybersecurity)
 The Google Cybersecurity Specialization offers foundational training in defending organizations against cyber threats. Across eight courses, learners gain hands-on experience with tools like Python, Linux, SQL, SIEM, and IDS. The curriculum features real-world scenarios, labs, and portfolio projects to develop analysis, problem-solving, and communication skills. Completion prepares learners for entry-level roles and supports readiness for the **CompTIA Security+** exam.  
