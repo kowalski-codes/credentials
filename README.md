@@ -178,6 +178,10 @@ Number of Courses: 7
 | [AI for App Building](https://www.coursera.org/learn/google-ai-for-app-building/) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/1FITV07LP8AT) | May 20, 2026
 | **Google AI Professional Certificate** | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Z95E6AV58CN6) | May 20, 2026
 
+<p align="left">
+    <img src="https://coursera-certificate-images.s3.amazonaws.com/Z95E6AV58CN6" width=550>
+</p>
+
 [back to top🔼](#contents)
 
 ## [Google Cybersecurity Specialization](https://www.coursera.org/professional-certificates/google-cybersecurity)
