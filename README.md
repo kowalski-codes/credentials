@@ -178,11 +178,6 @@ Number of Courses: 7
 | [AI for App Building](https://www.coursera.org/learn/google-ai-for-app-building/) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/1FITV07LP8AT) | May 20, 2026
 | **Google AI Professional Certificate** | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/Z95E6AV58CN6) | May 20, 2026
 
-<!--p align="center" width=450>
-   <img src="https://coursera-certificate-images.s3.amazonaws.com/Z95E6AV58CN6">
-   <img src="https://media.licdn.com/dms/image/v2/D5622AQH90gg6wTkB1A/feedshare-shrink_480/B56Z5IWDuPIYAg-/0/1779330202756?e=1781136000&v=beta&t=2MjqIQcBX2-8OJhUKTjCPqiXPiA5mGi7YAtW8r0mwbo">
-</p> -->
-
 <table align="center" style="border: none;">
   <tr>
     <td align="center" style="border: none;">
@@ -193,11 +188,6 @@ Number of Courses: 7
     </td>
   </tr>
 </table>
-
-<!--<p align="center">
-  <img src="https://coursera-certificate-images.s3.amazonaws.com/Z95E6AV58CN6" width="45%">&nbsp;&nbsp;
-   <img src="https://media.licdn.com/dms/image/v2/D5622AQH90gg6wTkB1A/feedshare-shrink_480/B56Z5IWDuPIYAg-/0/1779330202756?e=1781136000&v=beta&t=2MjqIQcBX2-8OJhUKTjCPqiXPiA5mGi7YAtW8r0mwbo" width="45%">
-</p> -->
    
 [back to top🔼](#contents)
 
