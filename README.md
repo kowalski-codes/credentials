@@ -10,7 +10,7 @@ Here you will find:
 
 All credentials here are organized for easy verification and reference.
 
->_For questions or verification requests, feel free to contact me_
+_For questions or verification requests, feel free to contact me_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keannu-guevarra-8baa222b0)
 [![Coursera](https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=coursera&logoColor=blue)](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
