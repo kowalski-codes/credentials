@@ -39,9 +39,10 @@ _For questions or verification requests, feel free to contact me_
   - Advanced math
 - Final project
 
-### [COURSERA](#coursera)
+### [COURSERA](#coursera- )
   - [Google AI Specialization](#google-ai-specialization)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
+  - [Introduction to Generative AI Learning Path Specialization](#introduction-to-generative-ai-learning-path-specialization)
   - [Meta Front-End Developer Specialization](#meta-front-end-developer-specialization)
   - [IBM Java Developer Specialization](#ibm-java-developer-specialization)
 
@@ -158,7 +159,7 @@ _Resources:_
 _**To be continued**_
 
 ---
-# [Coursera](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
+# [Coursera ](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
 
 ## [Google AI Specialization](https://www.coursera.org/professional-certificates/google-ai)
 The Google AI Specialization helps learners move from basic knowledge to true AI fluency with hands-on projects across six domains. Built by Google experts and validated by employers, it focuses on practical applications like data analysis, content creation, and app building. By completing 20+ activities, you’ll build a portfolio of job-ready solutions and earn a certificate proving your readiness for the AI-enabled workforce.
@@ -210,6 +211,23 @@ Number of Courses: 9
 | [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/) | ❌ Not Started
 | [Accelerate Your Job Search with AI](https://www.coursera.org/learn/accelerate-your-job-search-with-ai/) | ❌ Not Started
 | **Google Cybersecurity Professional Certificate** | ⏳ In Progress
+
+[back to top🔼](#contents)
+
+## [Introduction to Generative AI Learning Path Specialization](https://www.coursera.org/specializations/introduction-to-generative-ai)
+The Introduction to Generative AI Learning Path Specialization offers a comprehensive introduction to generative AI. This specialization explores the foundations of large language models (LLMs), their diverse applications, and the ethical considerations crucial for responsible AI development and deployment. The learning path on generative AI, covering LLMs and responsible AI, features interactive quizzes throughout the modules. These quizzes assess comprehension of key concepts and terminology. Participants receive immediate feedback, reinforcing learning and identifying areas for further exploration.
+
+Instructor: [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training)  
+Partner: [Google Cloud](https://www.coursera.org/partners/googlecloud)  
+Number of Courses: 4
+
+| Introduction to Generative AI Learning Path Specialization | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) | ✅ Done | [Certificate](https://www.coursera.org/account/accomplishments/verify/61TG7O8O8HSG) | May 22, 2026
+| [Introduction to Large Language Models](https://www.coursera.org/learn/introduction-to-large-language-models) | ⏳ In Progress
+| [Introduction to Responsible AI](https://www.coursera.org/learn/introduction-to-responsible-ai) | ❌ Not Started
+| [Responsible AI: Applying AI Principles with Google Cloud](https://www.coursera.org/learn/responsible-ai-applying-ai-principles-with-google-cloud) | ❌ Not Started
+| **Introduction to Generative AI Learning Path Specialization** | ⏳ In Progress
 
 [back to top🔼](#contents)
 
