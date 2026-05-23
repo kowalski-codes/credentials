@@ -40,10 +40,10 @@ _For questions or verification requests, feel free to contact me_
 - Final project
 
 ### [COURSERA](#coursera- )
-  - [Getting started with Google Workspace Specialization](#getting-started-with-google-workspace-specialization)
   - [Google AI Specialization](#google-ai-specialization)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
   - [Introduction to Generative AI Learning Path Specialization](#introduction-to-generative-ai-learning-path-specialization)
+  - [Getting started with Google Workspace Specialization](#getting-started-with-google-workspace-specialization)
   - [Meta Front-End Developer Specialization](#meta-front-end-developer-specialization)
   - [IBM Java Developer Specialization](#ibm-java-developer-specialization)
 
@@ -162,28 +162,6 @@ _**To be continued**_
 ---
 # [Coursera ](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
 
-## [Getting started with Google Workspace Specialization](https://www.coursera.org/specializations/getting-started-with-google-workspace)
-The Getting Started with Google Workspace Specialization helps learners build practical skills across Gmail, Calendar, Drive, Docs, Sheets, Slides, Meet, and Chat. Designed for real-world productivity, it emphasizes collaboration, content management, and effective communication. Through applied projects, you’ll solve business challenges using Google Workspace tools and graduate with job-ready expertise to thrive in modern, cloud-based workplaces.
-
-Instructor: [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training)  
-Partner: [Google Cloud](https://www.coursera.org/partners/googlecloud)  
-Number of Courses: 9
-
-| Getting started with Google Workspace Specialization | Status | Files | Certificate/Grade | Completion Date |
-|-|-|-|-|-|
-| [Gmail course](https://www.coursera.org/learn/gmail) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/MN15FDSRIHQ3) | April 8, 2025
-| [Google Calendar course](https://www.coursera.org/learn/google-calendar) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/3AONT30ZABEA) | April 9, 2025
-| [Google Drive course](https://www.coursera.org/learn/google-drive/) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/IU42WBE4H22C) | July 3, 2025
-| [Google Docs course](https://www.coursera.org/learn/google-docs) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/R60A70C20I7H) | July 5, 2025
-| [Google Sheets course](https://www.coursera.org/learn/google-sheets) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/7DM9LCTM9V3Y) | July 5, 2025
-| [Google Slides course](https://www.coursera.org/learn/google-slides) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/B89YHUGJDDNT) | July 5, 2025
-| [Google Meet course](https://www.coursera.org/learn/google-meet) | ⏳ In Progress
-| [Google Chat course](https://www.coursera.org/learn/google-chat) | ⏳ In Progress
-| [Google Sheets - Advanced Topics](https://www.coursera.org/learn/google-sheets---advanced-topics) | ⏳ In Progress
-| **Getting started with Google Workspace Specialization Certificate** | ⏳ In Progress
-
-[back to top🔼](#contents)
-
 ## [Google AI Specialization](https://www.coursera.org/professional-certificates/google-ai)
 The Google AI Specialization helps learners move from basic knowledge to true AI fluency with hands-on projects across six domains. Built by Google experts and validated by employers, it focuses on practical applications like data analysis, content creation, and app building. By completing 20+ activities, you’ll build a portfolio of job-ready solutions and earn a certificate proving your readiness for the AI-enabled workforce.
 
@@ -251,6 +229,36 @@ Number of Courses: 4
 | [Introduction to Responsible AI](https://www.coursera.org/learn/introduction-to-responsible-ai) | ❌ Not Started
 | [Responsible AI: Applying AI Principles with Google Cloud](https://www.coursera.org/learn/responsible-ai-applying-ai-principles-with-google-cloud) | ❌ Not Started
 | **Introduction to Generative AI Learning Path Specialization** | ⏳ In Progress
+
+[back to top🔼](#contents)
+
+## [Getting started with Google Workspace Specialization](https://www.coursera.org/specializations/getting-started-with-google-workspace)
+The Getting Started with Google Workspace Specialization helps learners build practical skills across Gmail, Calendar, Drive, Docs, Sheets, Slides, Meet, and Chat. Designed for real-world productivity, it emphasizes collaboration, content management, and effective communication. Through applied projects, you’ll solve business challenges using Google Workspace tools and graduate with job-ready expertise to thrive in modern, cloud-based workplaces.
+
+Instructor: [Google Cloud Training](https://www.coursera.org/instructor/google-cloud-training)  
+Partner: [Google Cloud](https://www.coursera.org/partners/googlecloud)  
+Number of Courses: 9
+
+| Getting started with Google Workspace Specialization | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Gmail course](https://www.coursera.org/learn/gmail) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/MN15FDSRIHQ3) | April 8, 2025
+| [Google Calendar course](https://www.coursera.org/learn/google-calendar) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/3AONT30ZABEA) | April 9, 2025
+| [Google Drive course](https://www.coursera.org/learn/google-drive/) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/IU42WBE4H22C) | July 3, 2025
+| [Google Docs course](https://www.coursera.org/learn/google-docs) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/R60A70C20I7H) | July 5, 2025
+| [Google Sheets course](https://www.coursera.org/learn/google-sheets) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/7DM9LCTM9V3Y) | July 5, 2025
+| [Google Slides course](https://www.coursera.org/learn/google-slides) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/B89YHUGJDDNT) | July 5, 2025
+| [Google Meet course](https://www.coursera.org/learn/google-meet) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/W4ESFXPY06S6) | May 22, 2026
+| [Google Chat course](https://www.coursera.org/learn/google-chat) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/AVY8NK5DDOP3) | May 22, 2026
+| [Google Sheets - Advanced Topics](https://www.coursera.org/learn/google-sheets---advanced-topics) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/GM21IE4Y5I3Y) | May 23, 2026
+| **Getting started with Google Workspace Specialization Certificate** | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/specialization/02XMHJMHATYG) | May 23, 2026
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://coursera-certificate-images.s3.amazonaws.com/02XMHJMHATYG" width="500">
+    </td>
+  </tr>
+</table>
 
 [back to top🔼](#contents)
 
