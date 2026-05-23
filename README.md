@@ -226,9 +226,17 @@ Number of Courses: 4
 |-|-|-|-|-|
 | [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/VNZNR2MPU99L) | May 23, 2026
 | [Introduction to Large Language Models](https://www.coursera.org/learn/introduction-to-large-language-models) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/61TG7O8O8HSG) | May 22, 2026
-| [Introduction to Responsible AI](https://www.coursera.org/learn/introduction-to-responsible-ai) | ❌ Not Started
-| [Responsible AI: Applying AI Principles with Google Cloud](https://www.coursera.org/learn/responsible-ai-applying-ai-principles-with-google-cloud) | ❌ Not Started
-| **Introduction to Generative AI Learning Path Specialization** | ⏳ In Progress
+| [Introduction to Responsible AI](https://www.coursera.org/learn/introduction-to-responsible-ai) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/F5RB4SX3NZWX) | May 23, 2026
+| [Responsible AI: Applying AI Principles with Google Cloud](https://www.coursera.org/learn/responsible-ai-applying-ai-principles-with-google-cloud) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/Y30L5A8EMZ7R) | May 23, 2026
+| **Introduction to Generative AI Learning Path Specialization** | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/specialization/3CZOGDP48L8L) | May 23, 2026
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://coursera-certificate-images.s3.amazonaws.com/3CZOGDP48L8L" width="500">
+    </td>
+  </tr>
+</table>
 
 [back to top🔼](#contents)
 
