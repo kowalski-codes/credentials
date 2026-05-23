@@ -223,7 +223,7 @@ Number of Courses: 4
 
 | Introduction to Generative AI Learning Path Specialization | Status | Files | Certificate/Grade | Completion Date |
 |-|-|-|-|-|
-| [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) | ✅ Done | [Certificate](https://www.coursera.org/account/accomplishments/verify/61TG7O8O8HSG) | May 22, 2026
+| [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/61TG7O8O8HSG) | May 22, 2026
 | [Introduction to Large Language Models](https://www.coursera.org/learn/introduction-to-large-language-models) | ⏳ In Progress
 | [Introduction to Responsible AI](https://www.coursera.org/learn/introduction-to-responsible-ai) | ❌ Not Started
 | [Responsible AI: Applying AI Principles with Google Cloud](https://www.coursera.org/learn/responsible-ai-applying-ai-principles-with-google-cloud) | ❌ Not Started
