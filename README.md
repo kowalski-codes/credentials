@@ -41,9 +41,9 @@ _For questions or verification requests, feel free to contact me_
 
 ### [COURSERA](#coursera- )
   - [Google AI Specialization](#google-ai-specialization)
-  - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
   - [Introduction to Generative AI Learning Path Specialization](#introduction-to-generative-ai-learning-path-specialization)
   - [Getting started with Google Workspace Specialization](#getting-started-with-google-workspace-specialization)
+  - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
   - [Meta Front-End Developer Specialization](#meta-front-end-developer-specialization)
   - [IBM Java Developer Specialization](#ibm-java-developer-specialization)
 
@@ -193,28 +193,6 @@ Number of Courses: 7
    
 [back to top🔼](#contents)
 
-## [Google Cybersecurity Specialization](https://www.coursera.org/professional-certificates/google-cybersecurity)
-The Google Cybersecurity Specialization offers foundational training in defending organizations against cyber threats. Across eight courses, learners gain hands-on experience with tools like Python, Linux, SQL, SIEM, and IDS. The curriculum features real-world scenarios, labs, and portfolio projects to develop analysis, problem-solving, and communication skills. Completion prepares learners for entry-level roles and supports readiness for the **CompTIA Security+** exam.  
-
-Instructor: [Google Career Certificates](https://www.coursera.org/instructor/google-career-certificates)  
-Partner: [Google](https://www.coursera.org/partners/google)  
-Number of Courses: 9
-
-| Google Cybersecurity Specialization | Status | Files | Certificate/Grade | Completion Date |
-|-|-|-|-|-|
-| [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/USBAQGOUQW0V) | June 26, 2025
-| [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/KY91MBPM9D0H) | July 4, 2025
-| [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security) | ⏳ In Progress
-| [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql) | ❌ Not Started
-| [Assets, Threats, and Vulnerabilities](https://www.coursera.org/learn/assets-threats-and-vulnerabilities) | ❌ Not Started
-| [Sound the Alarm: Detection and Response](https://www.coursera.org/learn/detection-and-response) | ❌ Not Started
-| [Automate Cybersecurity Tasks with Python](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/) | ❌ Not Started
-| [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/) | ❌ Not Started
-| [Accelerate Your Job Search with AI](https://www.coursera.org/learn/accelerate-your-job-search-with-ai/) | ❌ Not Started
-| **Google Cybersecurity Professional Certificate** | ⏳ In Progress
-
-[back to top🔼](#contents)
-
 ## [Introduction to Generative AI Learning Path Specialization](https://www.coursera.org/specializations/introduction-to-generative-ai)
 The Introduction to Generative AI Learning Path Specialization offers a comprehensive introduction to generative AI. This specialization explores the foundations of large language models (LLMs), their diverse applications, and the ethical considerations crucial for responsible AI development and deployment. The learning path on generative AI, covering LLMs and responsible AI, features interactive quizzes throughout the modules. These quizzes assess comprehension of key concepts and terminology. Participants receive immediate feedback, reinforcing learning and identifying areas for further exploration.
 
@@ -267,6 +245,28 @@ Number of Courses: 9
     </td>
   </tr>
 </table>
+
+[back to top🔼](#contents)
+
+## [Google Cybersecurity Specialization](https://www.coursera.org/professional-certificates/google-cybersecurity)
+The Google Cybersecurity Specialization offers foundational training in defending organizations against cyber threats. Across eight courses, learners gain hands-on experience with tools like Python, Linux, SQL, SIEM, and IDS. The curriculum features real-world scenarios, labs, and portfolio projects to develop analysis, problem-solving, and communication skills. Completion prepares learners for entry-level roles and supports readiness for the **CompTIA Security+** exam.  
+
+Instructor: [Google Career Certificates](https://www.coursera.org/instructor/google-career-certificates)  
+Partner: [Google](https://www.coursera.org/partners/google)  
+Number of Courses: 9
+
+| Google Cybersecurity Specialization | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/USBAQGOUQW0V) | June 26, 2025
+| [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/KY91MBPM9D0H) | July 4, 2025
+| [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security) | ⏳ In Progress
+| [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql) | ❌ Not Started
+| [Assets, Threats, and Vulnerabilities](https://www.coursera.org/learn/assets-threats-and-vulnerabilities) | ❌ Not Started
+| [Sound the Alarm: Detection and Response](https://www.coursera.org/learn/detection-and-response) | ❌ Not Started
+| [Automate Cybersecurity Tasks with Python](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/) | ❌ Not Started
+| [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/) | ❌ Not Started
+| [Accelerate Your Job Search with AI](https://www.coursera.org/learn/accelerate-your-job-search-with-ai/) | ❌ Not Started
+| **Google Cybersecurity Professional Certificate** | ⏳ In Progress
 
 [back to top🔼](#contents)
 
