@@ -28,16 +28,16 @@ _For questions or verification requests, feel free to contact me_
    - [CS Tools](#cs-tools)
    - [Core Systems](#core-systems)
    - [Core Theory](#core-theory)
-   - Core Security
-   - Core Applications
-   - Core Ethics
-- Advanced CS
-  - Advanced programming
-  - Advanced systems
-  - Advanced theory
-  - Advanced information security
-  - Advanced math
-- Final project
+   - [Core Security](#core-security)
+   - [Core Applications](#core-applications)
+   - [Core Ethics](#core-ethics)
+- [Advanced CS](#advanced-cs)
+  - [Advanced programming](#advanced-programming)
+  - [Advanced systems](#advanced-systems)
+  - [Advanced theory](#advanced-theory)
+  - [Advanced information security](#advanced-information-security)
+  - [Advanced math](#advanced-math)
+- [Final project](#final-project)
 
 ### [COURSERA](#coursera- )
   - [Google AI Specialization](#google-ai-specialization)
@@ -156,12 +156,127 @@ _Resources:_
 [back to top🔼](#contents)
 
 ### Core Security
-### Core Applications
-### Core Ethics
+**Topics covered**: `Confidentiality, Integrity, Availability` `Secure Design` `Defensive Programming` `Threats and Attacks` `Network Security` `Cryptography`
 
-_**To be continued**_
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | ❌ Not Started
+| [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | ❌ Not Started
+| [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | ❌ Not Started
+| [Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | ❌ Not Started
+| [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | ❌ Not Started
+
+[back to top🔼](#contents)
+
+### Core Applications
+**Topics covered**: `Agile methodology` `REST` `software specifications` `refactoring` `relational databases` `transaction processing` `data modeling` `neural networks` `supervised learning` `unsupervised learning` `OpenGL` `ray tracing`
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory) | ❌ Not Started
+| [Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) | ❌ Not Started
+| [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) | ❌ Not Started
+| [Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/) | ❌ Not Started
+| [Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics) | ❌ Not Started
+| [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)([Alternative](https://github.com/ubccpsc/310/blob/main/resources/README.md)) | ❌ Not Started
+
+[back to top🔼](#contents)
+
+### Core Ethics
+**Topics covered**: `Social Context` `Analytical Tools` `Professional Ethics` `Intellectual Property` `Privacy and Civil Liberties`
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| ❌ Not Started
+| [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)| ❌ Not Started
+| [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| ❌ Not Started
+
+[back to top🔼](#contents)
+
+## Advanced CS
+
+### Advanced programming
+
+**Topics covered**: `debugging theory and practice` `goal-oriented programming` `parallel computing` `object-oriented analysis and design` `UML` `large-scale software architecture and design`
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming) | ❌ Not Started
+| [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers) | ❌ Not Started
+| [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| ❌ Not Started
+| [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([Alternative](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))* | ❌ Not Started
+| [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A) | ❌ Not Started
+| [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | ❌ Not Started
+
+_Resources:_   
+Book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
+
+[back to top🔼](#contents)
+
+### Advanced systems
+
+**Topics covered**: `digital signaling` `combinational logic` `CMOS technologies` `sequential logic` `finite state machines` `processor instruction sets` `caches` `pipelining` `virtualization` `parallel processing` `virtual memory` `synchronization primitives` `system call interface`
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alternative 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alternative 2](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | ❌ Not Started
+| [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | ❌ Not Started
+| [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | ❌ Not Started
+
+[back to top🔼](#contents)
+
+### Advanced theory
+
+**Topics covered**:
+`formal languages` `Turing machines` `computability` `event-driven concurrency` `automata` `distributed shared memory` `consensus algorithms` `state machine replication` `computational geometry theory` `propositional logic` `relational logic` `Herbrand logic` `game trees`
+
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alternative](https://www.youtube.com/playlist?list=PLEE7DF8F5E0203A56)) | ❌ Not Started
+| [Computational Geometry](https://www.edx.org/learn/geometry/tsinghua-university-ji-suan-ji-he-computational-geometry) | ❌ Not Started
+| [Algorithmic Game Theory](https://timroughgarden.org/f13/f13.html) | ❌ Not Started
+
+[back to top🔼](#contents)
+
+### Advanced Information Security
+
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | ❌ Not Started
+| [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | ❌ Not Started
+| [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | ❌ Not Started
+| [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-requirements-design-and-reuse) | ❌ Not Started
+| [Secure Software Development: Implementation](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-implementation) | ❌ Not Started
+| [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/learn/software-engineering/the-linux-foundation-secure-software-development-verification-and-more-specialized-topics) | ❌ Not Started
+
+[back to top🔼](#contents)
+
+### Advanced math
+
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | ❌ Not Started | [high school math](https://ossu.dev/precollege-math)
+| [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | ❌ Not Started | corequisite: Essence of Linear Algebra
+| [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm) | ❌ Not Started | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+| [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | ❌ Not Started | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) 
+| [Probability](https://stat110.hsites.harvard.edu/) | ❌ Not Started | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration)
+
+[back to top🔼](#contents)
+
+## Final project
+
+| Course | Status | Files | Certificate/Grade | Completion Date |
+|-|-|-|-|-|
+| [Fullstack Open](https://fullstackopen.com/en/) | ❌ Not Started
+| [Modern Robotics](https://modernrobotics.northwestern.edu) | ❌ Not Started | [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
+| [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | ❌ Not Started
+| [Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | ❌ Not Started
+| [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | ❌ Not Started
+| [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | ❌ Not Started
+| [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | ❌ Not Started
+| [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | ❌ Not Started
+| [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | ❌ Not Started
+
+[back to top🔼](#contents)
 
 ---
+
 # [Coursera ](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
 
 ## [Google AI Specialization](https://www.coursera.org/professional-certificates/google-ai)
