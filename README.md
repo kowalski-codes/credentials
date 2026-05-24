@@ -375,7 +375,7 @@ Number of Courses: 5
 | Google Cybersecurity Specialization | Status | Files | Certificate/Grade | Completion Date |
 |-|-|-|-|-|
 | [Introduction to AI](https://www.coursera.org/learn/google-introduction-to-ai) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/GLCI85VWJJME) | May 23, 2026
-| [Maximize Productivity With AI Tools](https://www.coursera.org/learn/google-maximize-productivity-with-ai-tools) | ⏳ In Progress
+| [Maximize Productivity With AI Tools](https://www.coursera.org/learn/google-maximize-productivity-with-ai-tools) | ✅ Done | [Certificate](https://www.coursera.org/account/accomplishments/verify/C3JI63KPK1Z8) | May 24, 2026
 | [Discover the Art of Prompting](https://www.coursera.org/learn/google-discover-the-art-of-prompting) | ⏳ In Progress
 | [Use AI Responsibly](https://www.coursera.org/learn/google-use-ai-responsibly) | ⏳ In Progress
 | [Stay Ahead of the AI Curve](https://www.coursera.org/programs/learn/google-stay-ahead-of-the-ai-curve) | ⏳ In Progress
