@@ -372,15 +372,16 @@ Instructor: [Google Career Certificates](https://www.coursera.org/instructor/goo
 Partner: [Google](https://www.coursera.org/partners/google)  
 Number of Courses: 5
 
-| Google Cybersecurity Specialization | Status | Files | Certificate/Grade | Completion Date |
+| Google AI Essentials Specialization | Status | Files | Certificate/Grade | Completion Date |
 |-|-|-|-|-|
 | [Introduction to AI](https://www.coursera.org/learn/google-introduction-to-ai) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/GLCI85VWJJME) | May 23, 2026
-| [Maximize Productivity With AI Tools](https://www.coursera.org/learn/google-maximize-productivity-with-ai-tools) | ✅ Done | [Certificate](https://www.coursera.org/account/accomplishments/verify/C3JI63KPK1Z8) | May 24, 2026
+| [Maximize Productivity With AI Tools](https://www.coursera.org/learn/google-maximize-productivity-with-ai-tools) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/C3JI63KPK1Z8) | May 24, 2026
 | [Discover the Art of Prompting](https://www.coursera.org/learn/google-discover-the-art-of-prompting) | ⏳ In Progress
 | [Use AI Responsibly](https://www.coursera.org/learn/google-use-ai-responsibly) | ⏳ In Progress
 | [Stay Ahead of the AI Curve](https://www.coursera.org/programs/learn/google-stay-ahead-of-the-ai-curve) | ⏳ In Progress
 | **Google AI Essentials Specialization Certificate** | ⏳ In Progress
 
+[back to top🔼](#contents)
 
 ## [Google Cybersecurity Specialization](https://www.coursera.org/professional-certificates/google-cybersecurity)
 The Google Cybersecurity Specialization offers foundational training in defending organizations against cyber threats. Across eight courses, learners gain hands-on experience with tools like Python, Linux, SQL, SIEM, and IDS. The curriculum features real-world scenarios, labs, and portfolio projects to develop analysis, problem-solving, and communication skills. Completion prepares learners for entry-level roles and supports readiness for the **CompTIA Security+** exam.  
