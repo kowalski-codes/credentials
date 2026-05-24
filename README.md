@@ -43,6 +43,7 @@ _For questions or verification requests, feel free to contact me_
   - [Google AI Specialization](#google-ai-specialization)
   - [Introduction to Generative AI Learning Path Specialization](#introduction-to-generative-ai-learning-path-specialization)
   - [Getting started with Google Workspace Specialization](#getting-started-with-google-workspace-specialization)
+  - [Google AI Essentials Specialization](#google-ai-essentials-specialization)
   - [Google Cybersecurity Specialization](#google-cybersecurity-specialization)
   - [Meta Front-End Developer Specialization](#meta-front-end-developer-specialization)
   - [IBM Java Developer Specialization](#ibm-java-developer-specialization)
@@ -58,13 +59,14 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 | Course | Status | Files | Certificate/Grade | Completion Date |
 |-|-|-|-|-|
-| [Arithmetic](https://ossu.dev/precollege-math/coursepages/arithmetic/) | ⏳ In Progress
-| [Pre-Algebra](https://ossu.dev/precollege-math/coursepages/pre-algebra/) | ❌ Not Started
-| [Algebra 1](https://ossu.dev/precollege-math/coursepages/algebra-1/) | ❌ Not Started
-| [Geometry](https://ossu.dev/precollege-math/coursepages/geometry/) | ❌ Not Started
-| [Algebra 2](https://ossu.dev/precollege-math/coursepages/algebra-2/) | ❌ Not Started
-| [Trigonometry](https://ossu.dev/precollege-math/coursepages/trigonometry/)  | ❌ Not Started
-| [Precalculus](https://ossu.dev/precollege-math/coursepages/precalculus/) | ❌ Not Started
+| [Arithmetic](https://ossu.dev/precollege-math/coursepages/arithmetic/) | ✅ Done | | | June 25, 2025
+| [Pre-Algebra](https://ossu.dev/precollege-math/coursepages/pre-algebra/) | ✅ Done | | | July 1, 2025
+| [Algebra 1](https://ossu.dev/precollege-math/coursepages/algebra-1/) | ✅ Done | | | July  10, 2025
+| [Geometry](https://ossu.dev/precollege-math/coursepages/geometry/) | ✅ Done | | | July 13, 2025
+| [Algebra 2](https://ossu.dev/precollege-math/coursepages/algebra-2/) | ✅ Done | | | Aug 3, 2025
+| [Trigonometry](https://ossu.dev/precollege-math/coursepages/trigonometry/)  | ✅ Done | | | Aug 25, 2025
+| [Precalculus](https://ossu.dev/precollege-math/coursepages/precalculus/) | ✅ Done | | | Sept 8, 2025
+| [Final Exam](https://greenemath.com/Precalculus.html) | ✅ Done | [GreeneMath Completion](https://github.com/kowalski-codes/credentials/blob/main/evidence/screencapture-greenemath-Precalculus-html-2026-05-24-09_29_28.png) | | Sept 28, 2025 
 
 [back to top🔼](#contents)
 
@@ -100,12 +102,12 @@ The Open Source Society University (OSSU) curriculum offers a thorough self-guid
 
 | Course | Status | Files | Certificate/Grade | Completion Date |
 |-|-|-|-|-|
-| [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | ❌ Not Started
-| [Single Variable Calculus*](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | ❌ Not Started
-| [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | ❌ Not Started
-| [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | ❌ Not Started
-| [Mathematics for Computer Science by MIT Open Learning Library*](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | ❌ Not Started
-| [Mathematics for Computer Science by MIT OpenCourseWare (OCW)*](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | ❌ Not Started
+| [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | ✅ Done | | | Sept 5, 2025
+| [Single Variable Calculus*](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | ✅ Done | [Final Exam](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/resources/mit18_01scf10_final/) | [Exam Solutions](https://github.com/kowalski-codes/credentials/blob/main/evidence/mit_calculus_solutions.pdf) | Oct 1, 2025
+| [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | ✅ Done | covered by [Single Variable Calculus*](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | | Oct 1, 2025
+| [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | ✅ Done | covered by [Single Variable Calculus*](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | | Oct 1, 2025
+| [Mathematics for Computer Science by MIT Open Learning Library*](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | ✅ Done | [Internet Archive](https://archive.org/details/MIT6.042JS15/) | | Nov 23, 2025
+| [Mathematics for Computer Science by MIT OpenCourseWare (OCW)*](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | ✅ Done | [Internet Archive](https://archive.org/details/MIT6.042JS15/) | | Nov 23, 2025
 
 _Resources:_  
 [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions)  
