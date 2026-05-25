@@ -387,7 +387,7 @@ Number of Courses: 5
       <img src="https://coursera-certificate-images.s3.amazonaws.com/R3TFX8S6WJJQ" width="500">
     </td>
     <td align="center" style="border: none;">
-      <img src="https://media.licdn.com/dms/image/v2/D5622AQH90gg6wTkB1A/feedshare-shrink_480/B56Z5IWDuPIYAg-/0/1779330202756?e=1781136000&v=beta&t=2MjqIQcBX2-8OJhUKTjCPqiXPiA5mGi7YAtW8r0mwbo" width="500">
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQEU-_6KGCA4oQ/feedshare-image-high-res/B56Z5gn9NxG0AU-/0/1779737547893?e=1781136000&v=beta&t=R0S3fLDCcNdi6wVTJ7Ko-TZgAfqnLaJA3Ao9tC1QPnE" width="500">
     </td>
   </tr>
 </table>
