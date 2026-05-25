@@ -376,10 +376,21 @@ Number of Courses: 5
 |-|-|-|-|-|
 | [Introduction to AI](https://www.coursera.org/learn/google-introduction-to-ai) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/GLCI85VWJJME) | May 23, 2026
 | [Maximize Productivity With AI Tools](https://www.coursera.org/learn/google-maximize-productivity-with-ai-tools) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/C3JI63KPK1Z8) | May 24, 2026
-| [Discover the Art of Prompting](https://www.coursera.org/learn/google-discover-the-art-of-prompting) | ⏳ In Progress
-| [Use AI Responsibly](https://www.coursera.org/learn/google-use-ai-responsibly) | ⏳ In Progress
-| [Stay Ahead of the AI Curve](https://www.coursera.org/programs/learn/google-stay-ahead-of-the-ai-curve) | ⏳ In Progress
-| **Google AI Essentials Specialization Certificate** | ⏳ In Progress
+| [Discover the Art of Prompting](https://www.coursera.org/learn/google-discover-the-art-of-prompting) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/VQ8FGUK2XBL4) | May 25, 2026
+| [Use AI Responsibly](https://www.coursera.org/learn/google-use-ai-responsibly) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/NF0NSV31THCM) |May 25, 2026
+| [Stay Ahead of the AI Curve](https://www.coursera.org/programs/learn/google-stay-ahead-of-the-ai-curve) | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/verify/UB0377Z5GLCO) | May 25, 2026
+| **Google AI Essentials Professional Certificate** | ✅ Done | | [Certificate](https://www.coursera.org/account/accomplishments/specialization/R3TFX8S6WJJQ) | May 25, 2026
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://coursera-certificate-images.s3.amazonaws.com/R3TFX8S6WJJQ" width="500">
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQH90gg6wTkB1A/feedshare-shrink_480/B56Z5IWDuPIYAg-/0/1779330202756?e=1781136000&v=beta&t=2MjqIQcBX2-8OJhUKTjCPqiXPiA5mGi7YAtW8r0mwbo" width="500">
+    </td>
+  </tr>
+</table>
 
 [back to top🔼](#contents)
 
