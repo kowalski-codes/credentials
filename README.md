@@ -405,7 +405,7 @@ Number of Courses: 9
 |-|-|-|-|-|
 | [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/USBAQGOUQW0V) | June 26, 2025
 | [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/KY91MBPM9D0H) | July 4, 2025
-| [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security) | ⏳ In Progress
+| [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security) | ✅ Done |  | [Certificate](https://www.coursera.org/account/accomplishments/verify/F4IX54PF5LOX) | May 26, 2026
 | [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql) | ❌ Not Started
 | [Assets, Threats, and Vulnerabilities](https://www.coursera.org/learn/assets-threats-and-vulnerabilities) | ❌ Not Started
 | [Sound the Alarm: Detection and Response](https://www.coursera.org/learn/detection-and-response) | ❌ Not Started
